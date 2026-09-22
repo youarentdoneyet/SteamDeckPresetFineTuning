@@ -1,0 +1,14 @@
+# SteamDeckPresetFineTuning settings
+
+r.FidelityFX.FSR3.Enabled 1
+r.FidelityFX.FSR3.QualityMode 3
+r.SSR.Quality 1
+r.Lumen.ScreenProbeGather.DownsampleFactor 128
+r.Lumen.Reflections.ScreenTraces 0
+r.Water.SingleLayer.Reflection 0
+r.SSR.MaxRoughness 0
+r.Lumen.ScreenProbeGather.ScreenTraces 0
+r.Lumen.ScreenProbeGather.TracingOctahedronResolution 4
+r.Nanite.MaxPixelsPerEdge 2
+r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving 1.5
+r.AmbientOcclusionLevels 0
